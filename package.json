@@ -1,16 +1,12 @@
 {
   "name": "blockchain-typescript",
   "version": "1.0.0",
-  "description": "Learning Typescript by making Blockchain",
+  "description": "Learning TypeScript with making by blockchain",
   "main": "index.js",
-  "author": "wonhopark89",
+  "author": "wonhopark89-dev <wonhopark89.dev@gmail.com>",
   "license": "MIT",
-  "dependencies": {
-    "global": "^4.4.0",
-    "typescript": "^3.9.7"
-  },
   "scripts": {
-    "start": "node index.js",
-    "prestart": "tsc"
+    "prestart": "tsc",
+    "start": "node index.js"
   }
 }
