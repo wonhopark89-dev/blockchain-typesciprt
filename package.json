@@ -10,5 +10,10 @@
   },
   "devDependencies": {
     "tsc-watch": "^4.2.9"
+  },
+  "dependencies": {
+    "crypto-js": "^4.0.0",
+    "global": "^4.4.0",
+    "tslint": "^6.1.3"
   }
 }
